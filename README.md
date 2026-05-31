@@ -1,3 +1,5 @@
+![Image alt](https://github.com/Ahka2004/NumPad-Layer-Generator/raw/main/NumPad Layer Generator.jpg)
+
 # NumPad-Layer-Generator
 Генератор археологических слоев. Упрощаем работу с помощью автоматизации и макросов.  Все что вам нужно - это забрать файл программки, нажать старт и ваш нампад(цифровой блок на клавиатуре) превращается в мощный генератор археологических слоев. 
 NumPad Layer Generator v1.0
